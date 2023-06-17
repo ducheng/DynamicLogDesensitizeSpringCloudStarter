@@ -6,7 +6,7 @@
 <dependency>
   <groupId>com.github.ducheng</groupId>
   <artifactId>dynamic-log-desensitize-spring-cloud-starter</artifactId>
-  <version>0.0.6</version>
+  <version>0.0.5</version>
 </dependency>
 ```
 
